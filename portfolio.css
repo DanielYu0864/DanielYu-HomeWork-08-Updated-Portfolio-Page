@@ -149,7 +149,7 @@ header {
     margin: auto;
 }
 .my-p {
-    max-width: 60%;
+    max-width: 50%;
     margin: auto;
     margin-top: 35px;
     margin-bottom: 35px;
@@ -157,7 +157,7 @@ header {
 .mypicture {
     max-width: 100%;
     height: auto;
-    border-radius: 40%;
+    border-radius: 30%;
 }
 .left-side {
     background: #87A264;
@@ -202,6 +202,16 @@ button:hover {
 
 .display-none {
     display:none;
+}
+
+.profile:hover {
+    mix-blend-mode: screen;
+}
+
+.profile:active {
+    border: 2px inset #97B473;
+    box-shadow: inset 0px 4px 4px #36642880;
+    mix-blend-mode: screen;
 }
 
 @media (max-width:993px) {
