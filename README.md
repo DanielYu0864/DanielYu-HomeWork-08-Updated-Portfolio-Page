@@ -1,8 +1,8 @@
 # Unit 08 Project 1 Homework: Professional Materials
 * Home Page
-[`screenshot`](./img/Screenshot(14).png)
+![screenshot](./img/Screenshot(14).png)
 * Portfolio Page
-[`screenshot`](./img/Screenshot(15).png)
+![screenshot](./img/Screenshot(15).png)
 
 ## What I did
 * Updated the Github and Linkedin profile
